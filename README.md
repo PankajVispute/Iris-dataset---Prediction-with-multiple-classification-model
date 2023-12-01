@@ -1,2 +1,9 @@
 # Iris-dataset---Prediction-with-multiple-classification-model
-To predict species in iris dataset by using multiple classification machine learning model. Support vector machine model having accuracy score 100%. So, it is best model for prediction.
+## Accuracy score of model - 
+* KNN model - 96.6%
+* Logistic regression model - 93.33%
+* Descision tree model - 93.33%
+* Random forest model - 93.33%
+* Support vector machine model - 100%
+
+# Support vector machine model accuracy is high, so it is best for prediction.
